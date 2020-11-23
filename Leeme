@@ -1,0 +1,2 @@
+Este proyecto de iniciación pretende simular una cerradura inteligente que se abra de manera automática cuando detecte un rostro que figure dentro de una lista de "permitidos"
+Emplea CUDA, openCV, y las librerías de GPIO, así como alguna dependencia más
